@@ -1,0 +1,8 @@
+{
+  "name": "pesquisalivre",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
